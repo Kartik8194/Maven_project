@@ -1,2 +1,11 @@
+<<<<<<< Updated upstream
 {code3}
 {code4}
+=======
+{
+code 1
+}
+{
+code2
+}
+>>>>>>> Stashed changes
